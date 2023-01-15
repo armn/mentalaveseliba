@@ -1,0 +1,23 @@
+<div
+  class="w-full grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-4 my-8 px-4 container mx-auto"
+>
+  {% for post in collections.raksti | reverse %}
+  <a
+    href="{{ post.url | url }}"
+    class="cursor-pointer flex flex-col"
+    title="{{post.data.name}}"
+  >
+    <article
+      class="p-5 flex flex-col flex-1 border rounded-2xl border-gray-200 hover:border-indigo-400 shadow-lg hover:shadow-xl relative transition-all items-center align-center"
+    >
+      <h2 class="font-bold text-3xl text-gray-900 text-center mb-2">
+        {% if post.data.name %} {{ post.data.name }} {% endif %}
+      </h2>
+
+      {% if post.data.description %}
+      <p class="text-lg text-gray-500 mb-3">{{ post.data.description }}</p>
+      {% endif %}
+    </article>
+  </a>
+  {% endfor %}
+</div>

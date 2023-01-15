@@ -1,0 +1,105 @@
+backend:
+  # Use netlify identity as backend
+  name: git-gateway
+  branch: master
+  ### enable below lines for github integration ###
+  # name: github
+  # repo: surjithctly/neat-starter
+media_folder: "src/static/img"
+public_folder: "/static/img"
+
+# Please run "npx netlify-cms-proxy-server" for local backend
+local_backend: true
+# publish_mode: editorial_workflow
+collections:
+  - label: "Raksti"
+    name: "raksti"
+    folder: "src/raksti"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: "Virsraksts", name: "title", widget: "string" }
+      - { label: "Apraksts", name: "description", widget: "string" }
+      - { label: "Saturs", name: "body", widget: "markdown" }
+      - widget: list
+        label: "Kas nav"
+        name: "what_is_not"
+        create: true
+        allow_add: true
+        collapsed: false
+        fields:
+          - { label: Virsraksts, name: title, widget: string }
+          - { label: Apraksts, name: description, widget: string }
+      - widget: list
+        label: "Kas ir"
+        name: "what_is"
+        create: true
+        allow_add: true
+        collapsed: false
+        fields:
+          - { label: Virsraksts, name: title, widget: string }
+          - { label: Apraksts, name: description, widget: string }
+      - widget: list
+        label: "Stāvokļi"
+        name: "states"
+        create: true
+        allow_add: true
+        collapsed: false
+        fields:
+          - { label: Virsraksts, name: title, widget: string }
+          - { label: Apraksts, name: description, widget: string }
+      - widget: list
+        label: "Tipi"
+        name: "types"
+        create: true
+        allow_add: true
+        collapsed: false
+        fields:
+          - { label: Virsraksts, name: title, widget: string }
+          - { label: Apraksts, name: description, widget: string }
+      - widget: list
+        label: "Simptomi"
+        name: "symptoms"
+        create: true
+        allow_add: true
+        collapsed: false
+        fields:
+          - { label: Virsraksts, name: title, widget: string }
+          - { label: Apraksts, name: description, widget: string }
+  - label: "Settings"
+    name: "settings"
+    editor:
+      preview: false
+    files:
+      - label: "Navigation"
+        name: "items"
+        file: "src/_data/navigation.yaml"
+        fields:
+          - label: Nav Items
+            name: items
+            widget: list
+            allow_add: false
+            collapsed: false
+            fields:
+              - { label: Title, name: text, widget: string }
+              - { label: URL, name: url, widget: string }
+      - label: "Quick Links"
+        name: "links"
+        file: "src/_data/quicklinks.yaml"
+        fields:
+          - label: Nav Items
+            name: links
+            widget: list
+            collapsed: false
+            fields:
+              - { label: Title, name: title, widget: string }
+              - { label: URL, name: url, widget: string }
+              - { label: Description, name: desc, widget: string }
+      - label: "Meta Settings"
+        name: "settings"
+        file: "src/_data/settings.yaml"
+        fields:
+          - { label: Name, name: name, widget: string }
+          - { label: Author, name: author, widget: string }
+          - { label: URL, name: url, widget: string }
