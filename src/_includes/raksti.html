@@ -37,6 +37,17 @@ layout: default
   </div>
   {% endif %}
 
+  {% if behaviors %}
+  <div class="mb-10">
+    <h2 class="text-3xl font-bold">Uzvedība</h2>
+    {% for item in behaviors %}
+    <p class="leading-9 text-lg mt-3">
+      <strong class="font-bold">{{item.title}}</strong> - {{item.description}}
+    </p>
+    {% endfor %}
+  </div>
+  {% endif %}
+
   {% if types %}  
   <div class="mb-10">
     <h2 class="text-3xl font-bold">Tipi</h2>
@@ -65,5 +76,9 @@ layout: default
       {{ content | safe }}
     </article>
     {% endif %}
+
+    <a href="/" class="text-center mt-10 block text-2xl font-medium">🔙 Atgriezties uz sākumu</a>
   </div>
+
+  
 </div>

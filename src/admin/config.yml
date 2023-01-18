@@ -67,6 +67,15 @@ collections:
         fields:
           - { label: Virsraksts, name: title, widget: string }
           - { label: Apraksts, name: description, widget: string }
+      - widget: list
+        label: "Uzvedība"
+        name: "behaviors"
+        create: true
+        allow_add: true
+        collapsed: false
+        fields:
+          - { label: Virsraksts, name: title, widget: string }
+          - { label: Apraksts, name: description, widget: string }
   - label: "Settings"
     name: "settings"
     editor:
