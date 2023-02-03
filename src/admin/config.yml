@@ -20,8 +20,9 @@ collections:
       preview: false
     fields:
       - { label: "Virsraksts", name: "title", widget: "string" }
-      - { label: "Apraksts", name: "description", widget: "string" }
-      - { label: "Saturs", name: "body", widget: "markdown" }
+      - { label: "Nosaukums", name: "name", widget: "string" }
+      - { label: "Apraksts", name: "description", widget: "text" }
+      - { label: "Īsais apraksts", name: "intro", widget: "string" }
       - widget: list
         label: "Kas nav"
         name: "what_is_not"
@@ -76,6 +77,8 @@ collections:
         fields:
           - { label: Virsraksts, name: title, widget: string }
           - { label: Apraksts, name: description, widget: string }
+      - { label: "Papildu saturs", name: "body", widget: "markdown" }
+
   - label: "Settings"
     name: "settings"
     editor:
