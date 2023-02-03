@@ -1,6 +1,7 @@
 ---
 title: Kas ir obsesīvi kompulsīvie traucējumi?
 name: Obsesīvi kompulsīvie traucējumi
+intro: Test
 description: Bipolar disorder is a condition affecting the chemical balance in the brain, that primarily makes it shift between episodes of “up” (feeling energetic) or “down” (feeling depressed). While it is a life-long condition that is not curable, it can be treated effectively with the right medication.
 what_is_not:
   - title: Being lazy

@@ -9,30 +9,31 @@ layout: default
   </div>
 
   <div class="border shadow-2xl p-5 rounded-2xl mb-10">
-    <h2 class="text-3xl font-bold">❌ Kas nav {{name}}?</h2>
+    <h2 class="text-3xl font-bold mb-4">❌ Kas nav {{name}}?</h2>
     {% for item in what_is_not %}
-    <p class="leading-9 text-lg mt-3">
-      <strong class="font-bold">{{item.title}}</strong> - {{item.description}}
-    </p>
+    <div class="leading-9 text-lg mt-3">
+      <strong class="font-bold text-xl">{{item.title}}</strong> <p>{{item.description}}</p>
+    </div>
     {% endfor %}
   </div>
 
-  <div class="border shadow-2xl p-5 rounded-2xl mb-10">
-    <h2 class="text-3xl font-bold">✅ Kas ir {{name}}?</h2>
+  <div class="border shadow-2xl p-5 rounded-2xl mb-12">
+    <h2 class="text-3xl font-bold mb-4">✅ Kas ir {{name}}?</h2>
     {% for item in what_is %}
-    <p class="leading-9 text-lg mt-3">
-      <strong class="font-bold">{{item.title}}</strong> - {{item.description}}
-    </p>
+    <div class="leading-9 text-lg mt-3">
+      <strong class="font-bold text-xl">{{item.title}}</strong> <p>{{item.description}}</p> 
+    </div>
     {% endfor %}
   </div>
+
 
 {% if states %}
   <div class="mb-10">
     <h2 class="text-3xl font-bold">Stāvokļi</h2>
     {% for item in states %}
-    <p class="leading-9 text-lg mt-3">
-      <strong class="font-bold">{{item.title}}</strong> - {{item.description}}
-    </p>
+    <div class="leading-9 text-lg mt-3">
+      <strong class="font-bold text-xl">{{item.title}}</strong> <p>{{item.description}}</p>
+    </div>
     {% endfor %}
   </div>
   {% endif %}
@@ -41,9 +42,9 @@ layout: default
   <div class="mb-10">
     <h2 class="text-3xl font-bold">Uzvedība</h2>
     {% for item in behaviors %}
-    <p class="leading-9 text-lg mt-3">
-      <strong class="font-bold">{{item.title}}</strong> - {{item.description}}
-    </p>
+    <div class="leading-9 text-lg mt-3">
+      <strong class="font-bold text-xl">{{item.title}}</strong> <p>{{item.description}}</p>
+    </div>
     {% endfor %}
   </div>
   {% endif %}
@@ -52,9 +53,9 @@ layout: default
   <div class="mb-10">
     <h2 class="text-3xl font-bold">Tipi</h2>
     {% for item in types %}
-    <p class="leading-9 text-lg mt-3">
-      <strong class="font-bold">{{item.title}}</strong> - {{item.description}}
-    </p>
+    <div class="leading-9 text-lg mt-3">
+      <strong class="font-bold text-xl">{{item.title}}</strong><p>{{item.description}}</p>
+    </div>
     {% endfor %}
   </div>
   {% endif %}
@@ -63,9 +64,9 @@ layout: default
   <div class="mb-10">
     <h2 class="text-3xl font-bold">Simptomi</h2>
     {% for item in symptoms %}
-    <p class="leading-9 text-lg mt-3">
-      <strong class="font-bold">{{item.title}}</strong> - {{item.description}}
-    </p>
+    <div class="leading-9 text-lg mt-3">
+      <strong class="font-bold text-xl">{{item.title}}</strong><p>{{item.description}}</p>
+    </div>
     {% endfor %}
   </div>
   {% endif %}

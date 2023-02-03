@@ -1,4 +1,5 @@
 {
   "layout": "raksti",
-  "tags": ["raksti"]
+  "tags": ["raksti"],
+  "permalink": "/{{ page.fileSlug }}/"
 }
