@@ -81,5 +81,4 @@ symptoms:
       ļoti efektīvas vai augstas funkcionētspējas līdz gandrīz pilnīgai
       nespējai.
 ---
-
-Some other text here.
+[Portāls medicine.lv](https://medicine.lv/raksti/disociativie-traucejumi-simptomi-celoni-arstesana)
