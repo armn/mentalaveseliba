@@ -1,24 +1,43 @@
 ---
 title: Kas ir disleksija?
 name: Disleksija
-description: Bipolar disorder is a condition affecting the chemical balance in the brain, that primarily makes it shift between episodes of “up” (feeling energetic) or “down” (feeling depressed). While it is a life-long condition that is not curable, it can be treated effectively with the right medication.
+description: Disleksija ir stāvoklis, ko izraisa atšķirīgs signālu sistēmas
+  savienojums smadzenēs. Tā var negatīvi ietekmēt lasīšanas un rakstīšanas
+  spējas.
+intro: Tā var negatīvi ietekmēt lasīšanas un rakstīšanas spējas.
 what_is_not:
-  - title: Being lazy
-    description: People with ADHD have what is known as an interest based nervous system, where they are motivated by novelty, challenge, urgency and interest. This may make doing things they are unmotivated by harder.
-  - title: Not trying hard enough
-    description: Trying is what people with ADHD do all the time, they just get interrupted by how their bodies and brain work more often than normal people.
+  - title: Augsta intelekta rādītājs
+    description: Nav saiknes starp disleksiju un paaugstinātu intelektu. Tas ir
+      atšķirīgs smadzeņu funkcionēšanas veids.
+  - title: Visiem vienāda
+    description: Disleksijas izpausmes ir izteikti individuālas. Dažādās jomās var
+      būt dažādas grūtības pakāpes.
 what_is:
-  - title: Difficult
-    description: Undiagnosed ADHD or without proper support are at risk of systematically lower scores in school. The daily burden is simply larger.
-states:
-  - title: Mania
-    description: During mania, the brain is very active. The person might feel euphoric and creative, but also comes with a risk of reckless or impulsive behavior with symptoms listed below. There is also a risk for psychosis. Doing mentally and physically intensive tasks on low or no sleep can be possible.
-types:
-  - title: Inattentive
-    description: Previously called ADHD, this type is lacking the impulsive and hyperactive traits. What is still there is difficulty filtering and focusing.
+  - title: Apgrūtinoša skolā
+    description: Vielas apguve skolā var būt grūtāka cilvēkiem ar disleksiju. Tādi
+      uzdevumi kā lasīšana un rakstīšana var aizņemt ievērojami vairāk enerģijas
+      un laika.
+  - title: Nepieciešamība pēc noteiktiem papildu resursiem, kad tie nepastāv
+    description: Dažām personām var būt nepieciešams ilgstoši klausīties tekstā, lai
+      to saprastu. Šāda iespēja ne vienmēr ir pieejama.
+states: []
+types: []
 symptoms:
-  - title: Executive dysfunction
-    description: Things like organization, planning, following plans and keeping track of items may be harder with ADHD. Having problems with doing essential things such as cleaning can occur due to having a harder time doing things without motivation. Following step-by step guides especially when heard verbally can be difficult.
+  - title: Grūtības lasīšanā
+    description: Apjomīgu teksta bloku (rindkopu) lasīšana var būt sarežģīta, ja
+      piemīt disleksija. Šķiet, ka burti saplūst kopā, un bieži tiek atkārtoti
+      lasīta viena un tā pati rindiņa. Arī iemācīšanās lasīt ir grūtāka.
+  - title: Grūtības pareizrakstībā un vārda burtu atdalīšanā (izpratnē)
+    description: Pareizrakstība var būt grūtāka, jo smadzenes apstrādā to, kā
+      izklausās vārdi. Smadzenes nav spējīgas sadalīt vārdu daļās.
+  - title: Skaidru teikumu veidošanas grūtības
+    description: Skaidru, vienkāršu teikuma struktūru veidošana var šķist apgrūtinoša.
+  - title: Nepareiza vārdu izruna
+    description: Nepareiza vārda izrunāšana pat pēc vairākiem mēģinājumiem to
+      pateikt pareizi ir biežāk sastopama cilvēkiem ar disleksiju.
+  - title: Grūtības saprast pārnestas nozīmes
+    description: Var būt grūtāk saprast jokus un izteicienus, kas ietver pārnestas
+      nozīmes vai lietas, kas citādi nav skaidri redzamas.
 ---
 
 Some other text here.
