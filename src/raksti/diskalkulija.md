@@ -40,5 +40,6 @@ symptoms:
     description: Tādi uzdevumi kā iepirkumu grozā esošo preču izmaksu noteikšana vai
       budžeta plānošana ir ievērojami apgrūtinoši.
 ---
+[Latvijas Diskalkulijas Asociācija](https://diskalkulija.lv/)
 
-Some other text here.
+[Portāls veselapasaule.lv](https://www.veselapasaule.lv/lv/enciklopedija/diagnoze/diskalkulija#iespejama-arstnieciba-un-rehabilitacija)
