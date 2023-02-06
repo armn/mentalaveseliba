@@ -73,6 +73,25 @@ symptoms:
     description: Tā kā personas ar trauksmi ir paaugstināta stresa stāvoklī, cilvēka
       sirdsdarbība palielinās. Tas var radīt vēl lielāku stresu un pasliktināt
       citu simptomu izpausmes.
+  - title: Auksti sviedri
+    description: Tā kā cilvēki ar trauksmi ir pakļauti stresam, kā arī tāpēc, ka
+      viņu sirdsdarbība var būt augstāka, viņi var sākt pastiprināti svīst.
+      Neatkarīgi no tā, kur viņi atrodas, neatkarīgi no temperatūras vai citas
+      ārējas ietekmes, viņi var sākt pastiprināti svīst.
+  - title: Trīcēšana
+    description: To ietekmē arī paaugstināts pulss, bet ne tikai tas. Cilvēki ar
+      trauksmes sindromu var sākt trīcēt. Personas var piedzīvot trīcošu balsi,
+      trīcošas rokas vai citas ķermeņa daļas.
+  - title: Koncentrēšanās grūtības
+    description: Tā kā personai ar trauksmes sindromu (traucējumiem) ir pastāvīgs un
+      liels stress, neatkarīgi no tā, vai tas ir saistīts ar vienu lielu lietu
+      vai vairākām mazākām lietām, viņas nevar koncentrēties uz to, kas izraisa
+      viņu trauksmi. Tas apgrūtina koncentrēšanos uz svarīgām ikdienas lietām,
+      kas var izraisīt vēl jo lielāku trauksmi.
+  - title: Apetītes zudums
+    description: Trauksme var izraisīt apetītes zudumu vai ēdiena atgrūšanu. Lai šo
+      stāvokli nošķirtu no anoreksijas, jāņem vērā, ka to lielā mērā izraisa
+      baiļu sajūtas, kuras, savukārt, aktivizē personas pārdzīvotais nemiers.
 ---
 
 Some other text here.
