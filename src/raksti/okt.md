@@ -46,5 +46,6 @@ states: []
 types: []
 symptoms: []
 ---
+[Lailas Kalniņas psihologa privātprakse](https://www.lailakalnina.lv/obsesivi-kompulsivie-traucejumi-okt/)
 
-Some other text here.
+[S﻿evis Apzināšanās Skola](https://sevisapzinasanaskola.lv/lv/biblioteka/vegetativa-distonija/obsesivi-kompulsivie-traucejumi)
