@@ -1,24 +1,44 @@
 ---
 title: Kas ir diskalkulija?
 name: Diskalkulija
-description: Bipolar disorder is a condition affecting the chemical balance in the brain, that primarily makes it shift between episodes of “up” (feeling energetic) or “down” (feeling depressed). While it is a life-long condition that is not curable, it can be treated effectively with the right medication.
+description: Diskalkulija ir stāvoklis, kas ietekmē to, kā smadzenes uztver un
+  apstrādā skaitļus. Personām, kurām piemīt diskalkulija, ir grūtāk veikt
+  uzdevumus, kurus citi uzskatītu par vienkāršiem, piemēram, nolasīt pulksteni
+  vai veikt vienkāršus aprēķinus.
+intro: "Diskalkulija ir stāvoklis, kas ietekmē to, kā smadzenes uztver un
+  apstrādā skaitļus. "
 what_is_not:
-  - title: Being lazy
-    description: People with ADHD have what is known as an interest based nervous system, where they are motivated by novelty, challenge, urgency and interest. This may make doing things they are unmotivated by harder.
-  - title: Not trying hard enough
-    description: Trying is what people with ADHD do all the time, they just get interrupted by how their bodies and brain work more often than normal people.
+  - title: Slinkuma izpausme
+    description: Diskalkulija būtiski apgrūtina noteiktu darbību veikšanu. Tas nav
+      kaut kas, ko var pārvarēt, vienkārši pieliekot gribasspēku.
+  - title: Joks vai mēme
+    description: Diskalkulijai nedrīkst pievērst nepietiekošu uzmanību. Tā negatīvi
+      ietekmē cilvēka, kuram tā piemīt, dzīvi. Šo cilvēku izjokošana vai mēmju
+      izplatīšana par tiem nav cieņpilna attieksme.
+  - title: '"Matemātikas disleksija"'
+    description: "Lai gan diskalkulija var apgrūtināt vērtību uztveri, skatoties uz
+      skaitļiem, to nevajadzētu salīdzināt ar disleksiju. "
 what_is:
-  - title: Difficult
-    description: Undiagnosed ADHD or without proper support are at risk of systematically lower scores in school. The daily burden is simply larger.
-states:
-  - title: Mania
-    description: During mania, the brain is very active. The person might feel euphoric and creative, but also comes with a risk of reckless or impulsive behavior with symptoms listed below. There is also a risk for psychosis. Doing mentally and physically intensive tasks on low or no sleep can be possible.
-types:
-  - title: Inattentive
-    description: Previously called ADHD, this type is lacking the impulsive and hyperactive traits. What is still there is difficulty filtering and focusing.
+  - title: Apgrūtinājumu un vilšanos radoša
+    description: "Lietas, kas var šķist automātiskas (piemēram, laika nolasīšana),
+      šādiem cilvēkiem var būt apgrūtinošas. Citām sabiedrības daļām, kas nav
+      atbilstoši pielāgotas cilvēkiem ar diskalkuliju, arī tiek radīti
+      apgrūtinājumi, un skola ir ievērojams piemērs. "
+states: []
+types: []
 symptoms:
-  - title: Executive dysfunction
-    description: Things like organization, planning, following plans and keeping track of items may be harder with ADHD. Having problems with doing essential things such as cleaning can occur due to having a harder time doing things without motivation. Following step-by step guides especially when heard verbally can be difficult.
+  - title: Grūtības matemātikā
+    description: Cilvēkiem ar diskalkuliju ir grūtāk atpazīt un saprast skaitļus.
+      Skaitīšanas laikā viņi var zaudēt spēju sekot skaitļiem, vai viņiem ir
+      nepieciešams ilgāks laiks, lai veiktu uzdevumus, ko citi uzskata par
+      vienkāršiem. Tas viņus nostāda nevēlamā, neizdevīgā stāvoklī.
+  - title: Pastāv apgrūtināta labās un kreisās puses atšķiršana.
+    description: Diskalkulija padara noteikšanu starp labo un kreiso pusi ļoti
+      mulsinošu. Gan izpratnes ziņā, kad citi piemin šīs puses, gan plānojot
+      attiecīgos pagriezienus vai puses prātā.
+  - title: Grūtības sastādīt budžetu un sekot līdzi naudai
+    description: Tādi uzdevumi kā iepirkumu grozā esošo preču izmaksu noteikšana vai
+      budžeta plānošana ir ievērojami apgrūtinoši.
 ---
 
 Some other text here.
