@@ -118,7 +118,6 @@ symptoms:
       lūzuma punktu, kurā rodas domas par pašnāvību vai pašnāvības plānošana. To
       var izraisīt arī blakuspastāvoša saslimšana ar depresiju.
 ---
-Papildus informācija:
+[Slimību profilakses un kontroles centrs](https://www.spkc.gov.lv/sites/spkc/files/content/neirotiski_traucejumi_148x210.pdf)
 
-* [Slimību profilakses un kontroles centrs](https://www.spkc.gov.lv/sites/spkc/files/content/neirotiski_traucejumi_148x210.pdf)
-* [Veselības centrs "Vivendi"](https://www.vivendicentrs.lv/lv/services/psihiatrija-psihoterapija/trauksme-un-panika)
+[Veselības centrs "Vivendi"](https://www.vivendicentrs.lv/lv/services/psihiatrija-psihoterapija/trauksme-un-panika)
