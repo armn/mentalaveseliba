@@ -39,5 +39,6 @@ symptoms:
     description: Var būt grūtāk saprast jokus un izteicienus, kas ietver pārnestas
       nozīmes vai lietas, kas citādi nav skaidri redzamas.
 ---
+[Latvijas Universitāte](https://www.lu.lv/en/vides-pieejamiba-lu/lu-personalam/ja-studentam-ir-macisanas-traucejumi/disleksija/)
 
-Some other text here.
+[Portāls medicine.lv](https://medicine.lv/raksti/9-agrini-simptomi-kas-var-liecinat-ka-bernam-ir-disleksija-8db6af2cf2)
