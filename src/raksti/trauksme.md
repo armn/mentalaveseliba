@@ -4,7 +4,9 @@ name: Trauksmes sindroms
 description: Trauksmes sindroms jeb traucējumi ir psihisku traucējumu grupa,
   kurā persona izjūt milzīgu trauksmi un bailes – līdz pat nespējai pilnvērtīgi
   funkcionēt. Tālāk ir uzskaitīti vairāki trauksmes sindroma (traucējumu) veidi.
-intro: Trauksmes sindroms jeb traucējumi ir psihisku traucējumu grupa.
+intro: Trauksmes sindroms jeb traucējumi ir psihisku traucējumu grupa, kurā
+  persona izjūt milzīgu trauksmi un bailes – līdz pat nespējai pilnvērtīgi
+  funkcionēt. Tālāk ir uzskaitīti vairāki trauksmes sindroma (traucējumu) veidi.
 what_is_not:
   - title: Nemiers (emocijas)
     description: Nemiers vai trauksmes sajūta ir emocijas, kuras piedzīvo liels
@@ -104,6 +106,20 @@ symptoms:
     description: Persona, kas cieš no milzīgas trauksmes, var netīšām vai neapzināti
       saspiest dūres, pēdas, žokļus vai jebkurus muskuļus ilgāk nekā parasti,
       izraisot spriedzi un sāpes.
+  - title: Sagaidāmu briesmu/ panikas/ nolemtības sajūta
+    description: Persona ar trauksmes sindromu (traucējumiem) var izjust milzīgas
+      bailes vai paniku pat tad, ja nav nekā tāda, kas patiešām varētu apdraudēt
+      dzīvību.
+  - title: Miega trūkums
+    description: Personai ar trauksmes sindromu (traucējumiem) var rasties miega
+      trūkums, jo viņu trauksme var radīt problēmas, mēģinot aizmigt vai iemigt.
+  - title: Suicidālas (pašnāvnieciskas) idejas
+    description: Nepietiekami apspriests trauksmes sindroma simptoms ir
+      pašnāvnieciskas domas. Smagas trauksmes gadījumā simptomi var sasniegt
+      lūzuma punktu, kurā rodas domas par pašnāvību vai pašnāvības plānošana. To
+      var izraisīt arī blakuspastāvoša saslimšana ar depresiju.
 ---
+Papildus informācija:
 
-Some other text here.
+* [Slimību profilakses un kontroles centrs](https://www.spkc.gov.lv/sites/spkc/files/content/neirotiski_traucejumi_148x210.pdf)
+* [Veselības centrs "Vivendi"](https://www.vivendicentrs.lv/lv/services/psihiatrija-psihoterapija/trauksme-un-panika)
