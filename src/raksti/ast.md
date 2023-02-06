@@ -45,11 +45,7 @@ what_is:
       personai nevar piemist "vairāk" vai "mazāk" autisma. Tieši pretēji, pastāv
       daudz simptomu, kas var parādīties lielākā vai mazākā mērā. Tas nozīmē, ka
       ir bezgalīgi veidi, kā cilvēkam var piemist autisms.
-types:
-  - title: Inattentive
-    description: Previously called ADHD, this type is lacking the impulsive and
-      hyperactive traits. What is still there is difficulty filtering and
-      focusing.
+types: []
 symptoms: []
 behaviors:
   - title: Acu kontakts ir nepatīkams
