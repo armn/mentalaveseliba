@@ -5,8 +5,7 @@ description: Trauksmes sindroms jeb traucējumi ir psihisku traucējumu grupa,
   kurā persona izjūt milzīgu trauksmi un bailes – līdz pat nespējai pilnvērtīgi
   funkcionēt. Tālāk ir uzskaitīti vairāki trauksmes sindroma (traucējumu) veidi.
 intro: Trauksmes sindroms jeb traucējumi ir psihisku traucējumu grupa, kurā
-  persona izjūt milzīgu trauksmi un bailes – līdz pat nespējai pilnvērtīgi
-  funkcionēt. Tālāk ir uzskaitīti vairāki trauksmes sindroma (traucējumu) veidi.
+  persona izjūt milzīgu trauksmi un bailes.
 what_is_not:
   - title: Nemiers (emocijas)
     description: Nemiers vai trauksmes sajūta ir emocijas, kuras piedzīvo liels
