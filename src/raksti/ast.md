@@ -94,4 +94,6 @@ behaviors:
       nepamanāmu apkārtējiem. Šī pastāvīgā tēlošana var būt iztukšojoša, liekot
       tiem sajusties iztukšotiem sociālu situāciju rezultātā. '
 ---
-Some other text here. Test
+[Ceļvedis vecākiem un aprūpētājiem pēc diagnozes uzstādīšanas](http://www.autismsberniem.lv/userfiles/files/vecakiem_un_aprupetajiem/AST_celvedis_vecakiem_mlapa.pdf)
+
+[Latvijas Autisma apvienība](https://www.autisms.lv/)
