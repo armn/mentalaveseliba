@@ -128,6 +128,24 @@ symptoms:
     description: Personām ar bipolāriem traucējumiem gan kāpuma, gan krituma
       stāvoklī ir lielāks risks tērēt pārāk daudz naudas nevajadzīgiem vai
       riskantiem ieguldījumiem vai lietām.
+  - title: Hiperseksualitāte
+    description: Primāri mānijas vai hipomānijas laikā cilvēkiem ar bipolāriem
+      traucējumiem var būt spēcīgāka dzimumtieksme nekā parasti.
+  - title: Paštraumatisms
+    description: Personām ar bipolāriem traucējumiem tieksme uz sevis traumēšanu ir
+      biežāk izteikta. Tā var parādīties kā citu simptomu pārvarēšanas
+      ("tikšanas ar tiem galā") mehānisms.
+  - title: Uzmācīgas domas
+    description: Izplatīts papildinājums bipolāriem traucējumiem obsesīvi
+      kompulsīvie traucējumi (OKT, angl. OCD). OKT/OCD simptomi ir, piemēram,
+      uzmācīgas domas un kompulsīvas iedomas, kas var pasliktināties ar
+      noteiktiem bipolāro traucējumu stāvokļiem.
+  - title: Tendences uz negadījumiem
+    description: Cilvēki, kas cieš no mānijas vai hipomanijas, biežāk nonāk
+      negadījumos. Tas var būt saistīts ar nepietiekošu riska uztveri vai
+      pārmērīgu pašpārliecinātību, jo persona uzskata, ka var izdarīt lietas,
+      kuras patiesībā nevar.
 ---
+[Rīgas psihiatrijas un narkoloģijas centrs](https://rpnc.lv/pacientiem-un-tuviniekiem/bipolari-afektivi-traucejumi/)
 
-Some other text here.
+[Lailas Kalniņas psihologa privātprakse](<https://www.lailakalnina.lv/bipolarie-traucejumi />)
