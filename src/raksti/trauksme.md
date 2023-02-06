@@ -92,6 +92,18 @@ symptoms:
     description: Trauksme var izraisīt apetītes zudumu vai ēdiena atgrūšanu. Lai šo
       stāvokli nošķirtu no anoreksijas, jāņem vērā, ka to lielā mērā izraisa
       baiļu sajūtas, kuras, savukārt, aktivizē personas pārdzīvotais nemiers.
+  - title: Pastiprināta elpošana (hiperventilācija)
+    description: Personai, kurai ir trauksmes sindroms, var sākties ātra vai
+      ārkārtīgi dziļa elpošana. To var izraisīt trauksme vai panika, bet tas,
+      visticamāk, notiks ar jebkuru cilvēku, kuram ir trauksmes sindroms.
+  - title: Gremošanas sistēmas problēmas
+    description: Trauksme var faktiski negatīvi ietekmēt zarnas, izraisot gremošanas
+      traucējumus vai skābes refluksu. Hiperventilācija trauksmes dēļ var
+      izraisīt arī pastiprinātu gaisa norīšanu, izraisot vēdera uzpūšanos.
+  - title: Saspringti/sāpoši muskuļi
+    description: Persona, kas cieš no milzīgas trauksmes, var netīšām vai neapzināti
+      saspiest dūres, pēdas, žokļus vai jebkurus muskuļus ilgāk nekā parasti,
+      izraisot spriedzi un sāpes.
 ---
 
 Some other text here.
