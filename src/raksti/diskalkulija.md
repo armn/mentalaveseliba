@@ -5,8 +5,9 @@ description: Diskalkulija ir stāvoklis, kas ietekmē to, kā smadzenes uztver u
   apstrādā skaitļus. Personām, kurām piemīt diskalkulija, ir grūtāk veikt
   uzdevumus, kurus citi uzskatītu par vienkāršiem, piemēram, nolasīt pulksteni
   vai veikt vienkāršus aprēķinus.
-intro: "Diskalkulija ir stāvoklis, kas ietekmē to, kā smadzenes uztver un
-  apstrādā skaitļus. "
+intro: Personām, kurām piemīt diskalkulija, ir grūtāk veikt uzdevumus, kurus
+  citi uzskatītu par vienkāršiem, piemēram, nolasīt pulksteni vai veikt
+  vienkāršus aprēķinus.
 what_is_not:
   - title: Slinkuma izpausme
     description: Diskalkulija būtiski apgrūtina noteiktu darbību veikšanu. Tas nav
