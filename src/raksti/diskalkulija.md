@@ -10,26 +10,27 @@ intro: Personām, kurām piemīt diskalkulija, ir grūtāk veikt uzdevumus, kuru
   vienkāršus aprēķinus.
 what_is_not:
   - title: Slinkuma izpausme
-    description: Diskalkulija būtiski apgrūtina noteiktu darbību veikšanu. Tas nav
+    description:
+      Diskalkulija būtiski apgrūtina noteiktu darbību veikšanu. Tas nav
       kaut kas, ko var pārvarēt, vienkārši pieliekot gribasspēku.
   - title: Joks vai mēme
-    description: Diskalkulijai nedrīkst pievērst nepietiekošu uzmanību. Tā negatīvi
+    description:
+      Diskalkulijai nedrīkst pievērst nepietiekošu uzmanību. Tā negatīvi
       ietekmē cilvēka, kuram tā piemīt, dzīvi. Šo cilvēku izjokošana vai mēmju
       izplatīšana par tiem nav cieņpilna attieksme.
   - title: '"Matemātikas disleksija"'
-    description: "Lai gan diskalkulija var apgrūtināt vērtību uztveri, skatoties uz
+    description:
+      "Lai gan diskalkulija var apgrūtināt vērtību uztveri, skatoties uz
       skaitļiem, to nevajadzētu salīdzināt ar disleksiju. "
 what_is:
   - title: Apgrūtinājumu un vilšanos radoša
-    description: "Lietas, kas var šķist automātiskas (piemēram, laika nolasīšana),
-      šādiem cilvēkiem var būt apgrūtinošas. Citām sabiedrības daļām, kas nav
-      atbilstoši pielāgotas cilvēkiem ar diskalkuliju, arī tiek radīti
-      apgrūtinājumi, un skola ir ievērojams piemērs. "
-states: []
-types: []
+    description:
+      "Lietas, kas var šķist automātiskas (piemēram, laika nolasīšana),
+      šādiem cilvēkiem var būt apgrūtinošas."
 symptoms:
   - title: Grūtības matemātikā
-    description: Cilvēkiem ar diskalkuliju ir grūtāk atpazīt un saprast skaitļus.
+    description:
+      Cilvēkiem ar diskalkuliju ir grūtāk atpazīt un saprast skaitļus.
       Skaitīšanas laikā viņi var zaudēt spēju sekot skaitļiem, vai viņiem ir
       nepieciešams ilgāks laiks, lai veiktu uzdevumus, ko citi uzskata par
       vienkāršiem. Tas viņus nostāda nevēlamā, neizdevīgā stāvoklī.
@@ -38,9 +39,9 @@ symptoms:
       mulsinošu. Gan izpratnes ziņā, kad citi piemin šīs puses, gan plānojot
       attiecīgos pagriezienus vai puses prātā.
   - title: Grūtības sastādīt budžetu un sekot līdzi naudai
-    description: Tādi uzdevumi kā iepirkumu grozā esošo preču izmaksu noteikšana vai
+    description:
+      Tādi uzdevumi kā iepirkumu grozā esošo preču izmaksu noteikšana vai
       budžeta plānošana ir ievērojami apgrūtinoši.
 ---
-[Latvijas Diskalkulijas Asociācija](https://diskalkulija.lv/)
 
-[Portāls veselapasaule.lv](https://www.veselapasaule.lv/lv/enciklopedija/diagnoze/diskalkulija#iespejama-arstnieciba-un-rehabilitacija)
+[Latvijas Diskalkulijas Asociācija](https://diskalkulija.lv/)

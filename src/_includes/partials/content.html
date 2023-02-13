@@ -1,7 +1,7 @@
 <div
   class="w-full grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-4 gap-4 my-8 px-4 container mx-auto"
 >
-  {% for post in collections.raksti | reverse %}
+  {% for post in collections.raksti %}
   <a
     href="{{ post.url | url }}"
     class="cursor-pointer flex flex-col"

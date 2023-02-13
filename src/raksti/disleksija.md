@@ -4,24 +4,27 @@ name: Disleksija
 description: Disleksija ir stāvoklis, ko izraisa atšķirīgs signālu sistēmas
   savienojums smadzenēs. Tā var negatīvi ietekmēt lasīšanas un rakstīšanas
   spējas.
-intro: Tā var negatīvi ietekmēt lasīšanas un rakstīšanas spējas.
+intro: Disleksija ir stāvoklis, ko izraisa atšķirīgs signālu sistēmas
+  savienojums smadzenēs. Tā var negatīvi ietekmēt lasīšanas un rakstīšanas
+  spējas.
 what_is_not:
   - title: Augsta intelekta rādītājs
     description: Nav saiknes starp disleksiju un paaugstinātu intelektu. Tas ir
       atšķirīgs smadzeņu funkcionēšanas veids.
   - title: Visiem vienāda
-    description: Disleksijas izpausmes ir izteikti individuālas. Dažādās jomās var
+    description:
+      Disleksijas izpausmes ir izteikti individuālas. Dažādās jomās var
       būt dažādas grūtības pakāpes.
 what_is:
   - title: Apgrūtinoša skolā
-    description: Vielas apguve skolā var būt grūtāka cilvēkiem ar disleksiju. Tādi
+    description:
+      Vielas apguve skolā var būt grūtāka cilvēkiem ar disleksiju. Tādi
       uzdevumi kā lasīšana un rakstīšana var aizņemt ievērojami vairāk enerģijas
       un laika.
   - title: Nepieciešamība pēc noteiktiem papildu resursiem, kad tie nepastāv
-    description: Dažām personām var būt nepieciešams ilgstoši klausīties tekstā, lai
+    description:
+      Dažām personām var būt nepieciešams ilgstoši klausīties tekstā, lai
       to saprastu. Šāda iespēja ne vienmēr ir pieejama.
-states: []
-types: []
 symptoms:
   - title: Grūtības lasīšanā
     description: Apjomīgu teksta bloku (rindkopu) lasīšana var būt sarežģīta, ja
@@ -36,9 +39,7 @@ symptoms:
     description: Nepareiza vārda izrunāšana pat pēc vairākiem mēģinājumiem to
       pateikt pareizi ir biežāk sastopama cilvēkiem ar disleksiju.
   - title: Grūtības saprast pārnestas nozīmes
-    description: Var būt grūtāk saprast jokus un izteicienus, kas ietver pārnestas
+    description:
+      Var būt grūtāk saprast jokus un izteicienus, kas ietver pārnestas
       nozīmes vai lietas, kas citādi nav skaidri redzamas.
 ---
-[Latvijas Universitāte](https://www.lu.lv/en/vides-pieejamiba-lu/lu-personalam/ja-studentam-ir-macisanas-traucejumi/disleksija/)
-
-[Portāls medicine.lv](https://medicine.lv/raksti/9-agrini-simptomi-kas-var-liecinat-ka-bernam-ir-disleksija-8db6af2cf2)
