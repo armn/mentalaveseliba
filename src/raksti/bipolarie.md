@@ -45,9 +45,13 @@ what_is:
       koncentrēšanos un sociālās spējas. Smagos gadījumos depresija var izraisīt
       pašnāvnieciskas domas vai pat mēģinājumus.
   - title: Noteiktos gadījumos bīstami, ja netiek ārstēti
-    description:
-      Katrs cilvēks ar bipolāriem traucējumiem to piedzīvo atšķirīgi, un
-      visiem šādiem cilvēkiem var nebūt visi simptomi vai viena veida epizodes.
+    description: Personas ar bipolāriem traucējumiem
+      impulsīvu epizožu laikā var radīt sev
+      dažādas briesmas. (Hipo)mānijas laikā
+      cilvēki var pārtērēt līdzekļus, iesaistīties
+      bīstamās darbībās, var rasties maldi vai
+      psihoze. Depresijas epizodes laikā cilvēks
+      var būt bīstams pats savai veselībai.
   - title: Pilnīgi individuāli
     description:
       Katrs cilvēks ar bipolāriem traucējumiem to piedzīvo atšķirīgi, un
@@ -145,7 +149,7 @@ symptoms:
   - title: Hiperseksualitāte
     description: Primāri mānijas vai hipomānijas laikā cilvēkiem ar bipolāriem
       traucējumiem var būt spēcīgāka dzimumtieksme nekā parasti.
-  - title: Paštraumatisms
+  - title: Paškaitējums
     description:
       Personām ar bipolāriem traucējumiem tieksme uz sevis traumēšanu ir
       biežāk izteikta. Tā var parādīties kā citu simptomu pārvarēšanas

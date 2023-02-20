@@ -71,7 +71,7 @@ symptoms:
       Tiem var pastāvēt brīži, kad viņi sajūt lietas, vai brīži, kad viņu
       sajūtas sūta smadzenēm signālus, kuriem nevajadzētu pastāvēt. Viņi arī
       dzird balsis, kas ar viņiem sarunājas, vai arī balsi galvā.
-  - title: Pašnāvnieciski mēģinājumi par paštraumēšanās
+  - title: Paškaitējums
     description:
       Viņi var mēģināt atņemt sev dzīvību vai savainot sevi, pat ja viņi
       nav pašnāvnieciski. Ja viņi nesaņem palīdzību, viņi turpinās to darīt,

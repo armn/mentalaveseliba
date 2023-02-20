@@ -34,7 +34,7 @@ what_is:
   - title: Ārstējami vai pārvaldāmi
     description: Atkarībā no konkrētās personas, prettrauksmes medikamenti,
       efektīvas pārvarēšanas stratēģijas vai psihoterapeitiskās metodes,
-      piemēram, kognitīvās uzvedības terapija (CBT), var palīdzēt viņiem
+      piemēram, kognitīvās uzvedības terapija (KBT), var palīdzēt viņiem
       efektīvi pārvaldīt trauksmi. To var papildināt ar veselīgu uzturu un
       regulārām fiziskām aktivitātēm, lai vēl vairāk samazinātu trauksmes
       līmeni.
