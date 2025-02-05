@@ -1,0 +1,512 @@
+{
+  "fields": [
+    {
+      "type": "text",
+      "default": null,
+      "icon": "text-input",
+      "key": "title",
+      "label": "Title",
+      "localised": false,
+      "options": {
+        "wrapping": true,
+        "multiline": false
+      },
+      "tab": "raksts",
+      "validation": {
+        "enforceMinMax": true,
+        "max": null,
+        "min": null,
+        "regex": null,
+        "regexError": null,
+        "required": false,
+        "unit": "length"
+      },
+      "value": null,
+      "version": 1,
+      "visibility": {
+        "hidden": false,
+        "showByValue": {
+          "field": null
+        }
+      }
+    },
+    {
+      "type": "text",
+      "default": null,
+      "icon": "text-input",
+      "key": "name",
+      "label": "Name",
+      "localised": false,
+      "options": {
+        "wrapping": true,
+        "multiline": false
+      },
+      "tab": "raksts",
+      "validation": {
+        "enforceMinMax": true,
+        "max": null,
+        "min": null,
+        "regex": null,
+        "regexError": null,
+        "required": false,
+        "unit": "length"
+      },
+      "value": null,
+      "version": 1,
+      "visibility": {
+        "hidden": false,
+        "showByValue": {
+          "field": null
+        }
+      }
+    },
+    {
+      "type": "text",
+      "default": null,
+      "icon": "text-input",
+      "key": "description",
+      "label": "Description",
+      "localised": false,
+      "options": {
+        "wrapping": true,
+        "multiline": false
+      },
+      "tab": "raksts",
+      "validation": {
+        "enforceMinMax": true,
+        "max": null,
+        "min": null,
+        "regex": null,
+        "regexError": null,
+        "required": false,
+        "unit": "length"
+      },
+      "value": null,
+      "version": 1,
+      "visibility": {
+        "hidden": false,
+        "showByValue": {
+          "field": null
+        }
+      }
+    },
+    {
+      "type": "text",
+      "default": null,
+      "icon": "text-input",
+      "key": "intro",
+      "label": "Intro",
+      "localised": false,
+      "options": {
+        "wrapping": true,
+        "multiline": false
+      },
+      "tab": "raksts",
+      "validation": {
+        "enforceMinMax": true,
+        "max": null,
+        "min": null,
+        "regex": null,
+        "regexError": null,
+        "required": false,
+        "unit": "length"
+      },
+      "value": null,
+      "version": 1,
+      "visibility": {
+        "hidden": false,
+        "showByValue": {
+          "field": null
+        }
+      }
+    },
+    {
+      "type": "rows",
+      "default": null,
+      "icon": "rows",
+      "key": "what_is_not",
+      "label": "What_is_not",
+      "options": {
+        "compact": true,
+        "allowEditing": true,
+        "itemLabel": "Row"
+      },
+      "tab": "raksts",
+      "validation": {
+        "max": null,
+        "min": null,
+        "unit": "rows"
+      },
+      "value": [
+        {
+          "type": "group",
+          "displayField": null,
+          "icon": "group",
+          "key": "what_is_not-element",
+          "label": "What_is_not-element",
+          "tab": "raksts",
+          "value": [
+            {
+              "type": "text",
+              "default": null,
+              "icon": "text-input",
+              "key": "title",
+              "label": "Title",
+              "localised": false,
+              "options": {
+                "wrapping": true,
+                "multiline": false
+              },
+              "tab": "raksts",
+              "validation": {
+                "enforceMinMax": true,
+                "max": null,
+                "min": null,
+                "regex": null,
+                "regexError": null,
+                "required": false,
+                "unit": "length"
+              },
+              "value": null,
+              "version": 1,
+              "visibility": {
+                "hidden": false,
+                "showByValue": {
+                  "field": null
+                }
+              }
+            },
+            {
+              "type": "text",
+              "default": null,
+              "icon": "text-input",
+              "key": "description",
+              "label": "Description",
+              "localised": false,
+              "options": {
+                "wrapping": true,
+                "multiline": false
+              },
+              "tab": "raksts",
+              "validation": {
+                "enforceMinMax": true,
+                "max": null,
+                "min": null,
+                "regex": null,
+                "regexError": null,
+                "required": false,
+                "unit": "length"
+              },
+              "value": null,
+              "version": 1,
+              "visibility": {
+                "hidden": false,
+                "showByValue": {
+                  "field": null
+                }
+              }
+            }
+          ],
+          "version": 1,
+          "visibility": {
+            "hidden": false,
+            "showByValue": {
+              "field": null
+            }
+          }
+        }
+      ],
+      "version": 1,
+      "visibility": {
+        "hidden": false,
+        "showByValue": {
+          "field": null
+        }
+      }
+    },
+    {
+      "type": "rows",
+      "default": null,
+      "icon": "rows",
+      "key": "what_is",
+      "label": "What_is",
+      "options": {
+        "compact": true,
+        "allowEditing": true,
+        "itemLabel": "Row"
+      },
+      "tab": "raksts",
+      "validation": {
+        "max": null,
+        "min": null,
+        "unit": "rows"
+      },
+      "value": [
+        {
+          "type": "group",
+          "displayField": null,
+          "icon": "group",
+          "key": "what_i",
+          "label": "What_i",
+          "tab": "raksts",
+          "value": [
+            {
+              "type": "text",
+              "default": null,
+              "icon": "text-input",
+              "key": "title",
+              "label": "Title",
+              "localised": false,
+              "options": {
+                "wrapping": true,
+                "multiline": false
+              },
+              "tab": "raksts",
+              "validation": {
+                "enforceMinMax": true,
+                "max": null,
+                "min": null,
+                "regex": null,
+                "regexError": null,
+                "required": false,
+                "unit": "length"
+              },
+              "value": null,
+              "version": 1,
+              "visibility": {
+                "hidden": false,
+                "showByValue": {
+                  "field": null
+                }
+              }
+            },
+            {
+              "type": "text",
+              "default": null,
+              "icon": "text-input",
+              "key": "description",
+              "label": "Description",
+              "localised": false,
+              "options": {
+                "wrapping": true,
+                "multiline": false
+              },
+              "tab": "raksts",
+              "validation": {
+                "enforceMinMax": true,
+                "max": null,
+                "min": null,
+                "regex": null,
+                "regexError": null,
+                "required": false,
+                "unit": "length"
+              },
+              "value": null,
+              "version": 1,
+              "visibility": {
+                "hidden": false,
+                "showByValue": {
+                  "field": null
+                }
+              }
+            }
+          ],
+          "version": 1,
+          "visibility": {
+            "hidden": false,
+            "showByValue": {
+              "field": null
+            }
+          }
+        }
+      ],
+      "version": 1,
+      "visibility": {
+        "hidden": false,
+        "showByValue": {
+          "field": null
+        }
+      }
+    },
+    {
+      "type": "rows",
+      "default": null,
+      "icon": "rows",
+      "key": "behaviors",
+      "label": "Behaviors",
+      "options": {
+        "compact": true,
+        "allowEditing": true,
+        "itemLabel": "Row"
+      },
+      "tab": "raksts",
+      "validation": {
+        "max": null,
+        "min": null,
+        "unit": "rows"
+      },
+      "value": [
+        {
+          "type": "group",
+          "displayField": null,
+          "icon": "group",
+          "key": "behavior",
+          "label": "Behavior",
+          "tab": "raksts",
+          "value": [
+            {
+              "type": "text",
+              "default": null,
+              "icon": "text-input",
+              "key": "title",
+              "label": "Title",
+              "localised": false,
+              "options": {
+                "wrapping": true,
+                "multiline": false
+              },
+              "tab": "raksts",
+              "validation": {
+                "enforceMinMax": true,
+                "max": null,
+                "min": null,
+                "regex": null,
+                "regexError": null,
+                "required": false,
+                "unit": "length"
+              },
+              "value": null,
+              "version": 1,
+              "visibility": {
+                "hidden": false,
+                "showByValue": {
+                  "field": null
+                }
+              }
+            },
+            {
+              "type": "text",
+              "default": null,
+              "icon": "text-input",
+              "key": "description",
+              "label": "Description",
+              "localised": false,
+              "options": {
+                "wrapping": true,
+                "multiline": false
+              },
+              "tab": "raksts",
+              "validation": {
+                "enforceMinMax": true,
+                "max": null,
+                "min": null,
+                "regex": null,
+                "regexError": null,
+                "required": false,
+                "unit": "length"
+              },
+              "value": null,
+              "version": 1,
+              "visibility": {
+                "hidden": false,
+                "showByValue": {
+                  "field": null
+                }
+              }
+            }
+          ],
+          "version": 1,
+          "visibility": {
+            "hidden": false,
+            "showByValue": {
+              "field": null
+            }
+          }
+        }
+      ],
+      "version": 1,
+      "visibility": {
+        "hidden": false,
+        "showByValue": {
+          "field": null
+        }
+      }
+    },
+    {
+      "type": "rich text",
+      "default": null,
+      "icon": "text",
+      "key": "content",
+      "label": "Content",
+      "localised": false,
+      "options": {
+        "outputFormat": "html",
+        "blockFormats": [
+          "blockquote",
+          "heading",
+          "hr",
+          "orderedList",
+          "unorderedList",
+          "image"
+        ],
+        "inlineFormats": [
+          "em",
+          "strong",
+          "link"
+        ],
+        "formatOptions": [
+          "allowQuoteFooters",
+          "allowNestedLists",
+          "allowImageCaptions"
+        ],
+        "inputRuleOptions": [
+          "autoquotes",
+          "dashes",
+          "ellipsis",
+          "noDoubleCaps",
+          "noDoubleSpace"
+        ],
+        "minHeading": 2,
+        "maxHeading": 4,
+        "codeLangs": [
+          "html",
+          "css",
+          "javascript",
+          "markdown"
+        ],
+        "allowRaw": false,
+        "urlTemplate": "",
+        "urlSuffix": "",
+        "linkOptions": [
+          "forceBlankTarget",
+          "allowExternal",
+          "allowInternal"
+        ]
+      },
+      "tab": "raksts",
+      "validation": {
+        "enforceMinMax": true,
+        "max": null,
+        "min": null,
+        "regex": null,
+        "regexError": null,
+        "required": false,
+        "unit": "length"
+      },
+      "value": null,
+      "version": 1,
+      "visibility": {
+        "hidden": false,
+        "showByValue": {
+          "field": null
+        }
+      }
+    }
+  ],
+  "tabs": [
+    {
+      "label": "raksts",
+      "groupAs": null
+    }
+  ]
+}

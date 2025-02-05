@@ -1,0 +1,19 @@
+{
+  "allowedTypes": [],
+  "dir": "/src/raksti",
+  "disableComments": false,
+  "disablePreview": false,
+  "draftByDefault": false,
+  "schemas": [
+    "/.mattrbld/schemas/raksti.json"
+  ],
+  "linkable": true,
+  "maxSize": null,
+  "permissions": {
+    "everybody": [
+      "everything"
+    ]
+  },
+  "type": "md",
+  "urlTemplate": "/:title"
+}
